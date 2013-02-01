@@ -1,0 +1,20 @@
+{
+  "name": "facebook-demo",
+  "version": "0.1.0",
+  "description": "A demo facebook app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coolaj86/facebook-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "AJ ONeal",
+  "license": "Apache2",
+  "readmeFilename": "README.md",
+  "gitHead": "ee537f9a38fb676845e90f8cb999086d891c28be"
+}
