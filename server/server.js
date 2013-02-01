@@ -26,6 +26,7 @@
   }
 
   app.use(connect.router(routes));
+  app.use(connect.static(__dirname + "/../public"));
   
   function run() {
     var port = process.argv[2] || 3000
